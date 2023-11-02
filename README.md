@@ -1,4 +1,24 @@
 # Aula_IHM
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<h1>Tabela de Produtos</h1>
+<table>
+<thead>
+<tr>
+<td>ID</td>
+<td>Descrição</td>
+<td>Preço</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Furadeira</td>
+<td>800.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Lixadeira</td>
+<td>350.00</td>
+</tr>
+</tbody>
+</table>
